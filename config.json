@@ -1,0 +1,10 @@
+{
+    "model_name":"vgg5",
+    "lr":0.1,
+    "epochs":50,
+    "batch_size":100,
+    "dataset":"mnist",
+    "eps2":0.1,
+    "thres":40,
+    "p":0.4
+}
